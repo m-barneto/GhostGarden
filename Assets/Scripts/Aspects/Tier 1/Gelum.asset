@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c15058928589c543b5a7e19d0d20f17, type: 3}
+  m_Name: Gelum
+  m_EditorClassIdentifier: 
+  Name: Gelum
+  Desc: Ice, Frost, Cold
+  tile: {fileID: 11400000, guid: dbd67e29498e3984c848322c4e5e8526, type: 2}
+  Component1: {fileID: 11400000, guid: 065a306dfc8213045bfed26e2e31072f, type: 2}
+  Component2: {fileID: 11400000, guid: 32f6b4e1603a7e646bb0a059724d9d4c, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c15058928589c543b5a7e19d0d20f17, type: 3}
+  m_Name: Metallum
+  m_EditorClassIdentifier: 
+  Name: Metallum
+  Desc: Metal
+  tile: {fileID: 11400000, guid: dc55aec7ada145b42be405183ac74cd4, type: 2}
+  Component1: {fileID: 11400000, guid: 77cd7653e6a30ce4ab424b5fa73b59af, type: 2}
+  Component2: {fileID: 11400000, guid: 82026ca808edca34ba2ab12ae8b8dbae, type: 2}
